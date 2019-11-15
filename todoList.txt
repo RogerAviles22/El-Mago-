@@ -1,5 +1,5 @@
 [X] Crear personaje principal, enemigos y paisaje
-[ ] Crear script para dar movimiento al mago
+[X] Crear script para dar movimiento al mago
 [ ] Accion de disparo de bola de fuego
 [ ] Aparecer enemigos de forma aleatoria a los lados
 [ ] Derrotar los 5 enemigos con bolas de fuego
