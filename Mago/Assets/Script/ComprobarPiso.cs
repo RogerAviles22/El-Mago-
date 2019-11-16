@@ -21,10 +21,5 @@ public class ComprobarPiso : MonoBehaviour
     {
         player.grounded = false;
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }

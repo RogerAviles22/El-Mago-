@@ -1,6 +1,9 @@
 [X] Crear personaje principal, enemigos y paisaje
 [X] Crear script para dar movimiento al mago
-[ ] Accion de disparo de bola de fuego
-[ ] Aparecer enemigos de forma aleatoria a los lados
-[ ] Derrotar los 5 enemigos con bolas de fuego
-[ ] Recompensar con el alma al mago
+[X] Accion de movimiento y salto
+[X] Aparecer enemigos del lado izquierdo
+[X] Movimiento automático de enemigos del lado izquierdo
+[X] Morir con la colisión de los fantasmas y el fuego
+[X] Mostrar Canvas del menú GameOver
+[X] Ganar al obtener el alma recolectada
+[X] Mostrar Canvas del menú GameWin
